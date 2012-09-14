@@ -1,0 +1,2 @@
+{"ts":1347590642684,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1347590716212,"patch":[[{"diffs":[[1,"{\r\n  \"name\": \"isotope\",\r\n  \"description\": \"Isotope repackaged for Meteor\",\r\n  \"homepage\": \"https://github.com/digioak/meteor-isotope\",\r\n  \"author\": \"Oak Chantosa <o.chantosa@gmail.com>\",\r\n  \"version\": \"0.0.1\",\r\n  \"git\": \"https://github.com/digioak/meteor-isotope.git\"\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":270}]],"length":270,"saved":false}

@@ -1,0 +1,8 @@
+{
+  "name": "isotope",
+  "description": "Isotope repackaged for Meteor",
+  "homepage": "https://github.com/digioak/meteor-isotope",
+  "author": "Oak Chantosa <o.chantosa@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/digioak/meteor-isotope.git"
+}
