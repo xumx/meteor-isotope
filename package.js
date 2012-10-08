@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "isotope repackaged for Meteor"
+  summary: "Isotope, the jQuery plugin for dynamic layout filtering and sorting, repackaged for Meteor"
 });
 
 Package.on_use(function (api, where) {
