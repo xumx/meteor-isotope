@@ -1,6 +1,6 @@
 {
   "name": "isotope",
-  "description": "Isotope repackaged for Meteor",
+  "description": "Isotope, the jQuery plugin for dynamic layout filtering and sorting, repackaged for Meteor",
   "homepage": "https://github.com/digioak/meteor-isotope",
   "author": "Oak Chantosa <o.chantosa@gmail.com>",
   "version": "0.0.1",
